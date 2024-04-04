@@ -14,7 +14,7 @@ First line contains *T*  that denotes the number of test cases. This is followed
 - 1 ≤ N ≤ 10<sup>9</sup>
 
 **Output Format**
-For each test case, print an integer that denotes the sum of all the multiples of `3` or `5` beelow `N`.
+For each test case, print an integer that denotes the sum of all the multiples of `3` or `5` below `N`.
 
 **Sample Input**
 ```
