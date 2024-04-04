@@ -2,6 +2,7 @@
 > HackerRank Contest
 
 @<a href="https://www.hackerrank.com/contests">www.hackerrank.com</a>
+and also @<a href="https://www.freecodecamp.org/learn/project-euler/#project-euler-problems-1-to-100">freeCodeCamp.org</a>
 
 ## What is Project Euler?
 Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. 
