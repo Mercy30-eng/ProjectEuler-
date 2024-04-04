@@ -11,6 +11,6 @@ Learn more <a href="https://projecteuler.net/">here</a>
 ## What is in this Repo?
 In this repository, you'll find:
 - directories/folders with the name of the programming language used to solve the contest challenges
-- Inside the folders are the task and source code
+- Inside the folders are the tasks and source code
 
 > All the source code was written by *Mercy*
