@@ -11,7 +11,7 @@ First line contains *T*  that denotes the number of test cases. This is followed
 
 **Constraints**
 - 1 ≤ T ≤ 10<sup>5</sup>
-- 1 ≤ T ≤ 10<sup>9</sup>
+- 1 ≤ N ≤ 10<sup>9</sup>
 
 **Output Format**
 For each test case, print an integer that denotes the sum of all the multiples of `3` or `5` beelow `N`.
